@@ -1,1 +1,1 @@
-https://github.com/dupenghui123/12.1-fullpage.git
+https://dupenghui123.github.io/wangyi/index.html
